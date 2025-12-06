@@ -1,0 +1,12 @@
+Unix -> Linux
+Linux : Noyeux du
+Système d'exploitation :
+Le systeme Linux évolue / modulable / transversalité
+
+apt get update
+apt get upgrade
+apt get install noms
+apt get purge noms
+
+
+apres un route add, faudrait la supprimer route del si on s'est trompé
